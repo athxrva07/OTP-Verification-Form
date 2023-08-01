@@ -24,6 +24,6 @@ function verifyOTP() {
             window.alert("Incorrect OTP. Please try again.");
         }
     } else {
-        window.alert("Please enter a 4-digit OTP.");
+        window.alert("Incorrect OTP. Please try again.");
     }
 }
